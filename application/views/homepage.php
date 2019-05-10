@@ -12,8 +12,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
  <link rel="shortcut icon" href="<?= base_url();?>asset/images/lamp.ico" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Client Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 
     <script>
         addEventListener("load", function () {
@@ -79,10 +77,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h4>developer - engineer - freelancer</h4>
 					<p class="mt-4"> Interested in game development and have experience working as Augmented Reality (AR) developer, Backend and Desktop programmer. Recently work as an Embedded Software Engineer using Arduino, Raspberry Pi, and other IoT devices.</p>
 					<ul class="social_section_1info mt-4">
-						<li class="mb-2 facebook"><a href="#"><span class="fa fa-facebook"></span></a></li>
-						<li class="mb-2 twitter"><a href="#"><span class="fa fa-github"></span></a></li>
-						<li class="linkedin"><a href="#"><span class="fa fa-linkedin"></span></a></li>
-						<li class="pinterest"><a href="#"><span class="fa fa-instagram"></span></a></li>
+						<li class="mb-2"><a href="https://web.facebook.com/adriantoprasetyo"><span class="fa fa-facebook"></span></a></li>
+						<li class="mb-2"><a href="https://github.com/adriantoprasetyo"><span class="fa fa-github"></span></a></li>
+						<li class="linkedin"><a href="https://www.linkedin.com/in/adrianto-prasetyo-709861b8/"><span class="fa fa-linkedin"></span></a></li>
+						<li class="instagram"><a href="https://www.instagram.com/adriantoprasetyo/"><span class="fa fa-instagram"></span></a></li>
 					</ul>
 					<a href="#about" class="scroll bnr-btn mr-2">Read more </a>
 					<a href="#contact" class="scroll bnr-btn1">Contact Me </a>
