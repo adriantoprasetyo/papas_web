@@ -95,10 +95,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <section class="about" id="about">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-lg-6 p-0">
-				<img class="example2" src="<?= base_url(); ?>asset/images/about2.jpg" alt="" class="img-fluid" />
-			</div>
-			<div class="col-lg-6">
+			<div class="col-lg-12">
 				<h1 class="heading text-center pt-3">About Me</h1>
 				<div class="about-right">
 					<!-- <h4 class="main">Auctor sit amet aliquam vel, ulla amet.</h4>
@@ -111,7 +108,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 						<div class="col-sm-7 offset-lg-1">
 							<h4>Personal Info</h4>
-							<p align="justify">Hello, My name is <strong>Adrianto Prasetyo</strong>. <br> I am 1 years experienced <strong>Web Backend Developer</strong>, 1 years experienced <strong>Internet of Things Engineer</strong> and 3 months experienced <strong>Augmented Reality Developer.</strong></p>
+							<p align="justify">Hello, My name is <strong>Adrianto Prasetyo</strong>. I am 1 years experienced <strong>Web Backend Developer</strong>, 1 years experienced <strong>Internet of Things Engineer</strong> and 3 months experienced <strong>Augmented Reality Developer.</strong></p>
 							<h4 class="mt-4">Skills & Abilities</h4>
 							<div class="progress-one mt-3">
 								<h4 class="progress-tittle">Backend Development</h4>
@@ -352,7 +349,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<h3 class="heading mb-sm-5 mb-4">Contact</h3>
 		<div class="contact-form">
 			<div class="row">
-				<div class="col-lg-8">
+				<div class="col-lg-12">
 					<form name="contactform" id="contactform" method="post" action="#" onsubmit="return(validate());" novalidate="novalidate">
 						<div class="row">
 							<div class="form-group col-md-6 ">
@@ -379,9 +376,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 					</form>
 				</div>
-				<section class="w3layouts-map col-lg-4 mt-lg-0 mt-5">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.9503398796587!2d-73.9940307!3d40.719109700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a27e2f24131%3A0x64ffc98d24069f02!2sCANADA!5e0!3m2!1sen!2sin!4v1441710758555" allowfullscreen=""></iframe>
-				</section>
 			</div>
 		</div>
 	</div>
