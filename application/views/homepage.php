@@ -366,11 +366,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 							<div class="form-group col-md-6">
 							  <label>Subject</label>
-							  <input type="text" class="form-control" id="subject" placeholder="Enter Subject" name="phone">
+							  <input type="text" class="form-control" id="subject" placeholder="Enter Subject" name="subject">
 							</div>
 							<div class="form-group col-12">
 							  <label>Message</label>
-							  <textarea name="issues" class="form-control" id="iq" placeholder="Enter Your Message Here"></textarea>
+							  <textarea name="message" class="form-control" id="message" placeholder="Enter Your Message Here"></textarea>
 							</div>				
 							<button type="submit" class="btn btn-default">Submit </button>
 						</div>
@@ -392,17 +392,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</h3>
 			</div>
 			<div class="col-lg-7 my-lg-0 my-4">
-				<p><span class="fa mr-2 fa-map-marker"></span>2130 Fulton Street, San Diego, CA 94117-1080 USA</p>
-				<p class="mt-2"><span class="fa mr-2 fa-envelope"></span><a href="mailto:info@example.com">info@example.com</a>, <span class="fa ml-3 mr-2 fa-phone"></span>1-600-1234-567</p>
+				<p><span class="fa mr-2 fa-map-marker"></span>Jl. Pakansari Raya, Bogor, Jawa Barat 16915</p>
+				<p class="mt-2"><span class="fa mr-2 fa-envelope"></span><a href="mailto:adriantoprasetyo30@gmail.com">adriantoprasetyo30@gmail.com</a>, <span class="fa ml-3 mr-2 fa-phone"></span>62-822-5801-5981</p>
 			</div>
 			<div class="col-lg-3 copy-right p-0 text-lg-right">
 			
 				<p>Follow me on social media</p>
 				<ul class="social_section_1info">
-					<li class="mb-2 facebook"><a href="#"><span class="fa fa-facebook"></span></a></li>
-					<li class="mb-2 twitter"><a href="#"><span class="fa fa-twitter"></span></a></li>
-					<li class="linkedin"><a href="#"><span class="fa fa-linkedin"></span></a></li>
-					<li class="pinterest"><a href="#"><span class="fa fa-pinterest"></span></a></li>
+					<li class="mb-2"><a href="https://web.facebook.com/adriantoprasetyo"><span class="fa fa-facebook"></span></a></li>
+						<li class="mb-2"><a href="https://github.com/adriantoprasetyo"><span class="fa fa-github"></span></a></li>
+						<li class="linkedin"><a href="https://www.linkedin.com/in/adrianto-prasetyo-709861b8/"><span class="fa fa-linkedin"></span></a></li>
+						<li class="instagram"><a href="https://www.instagram.com/adriantoprasetyo/"><span class="fa fa-instagram"></span></a></li>
 				</ul>
 			</div>
 		</div>
