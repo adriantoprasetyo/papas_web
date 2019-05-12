@@ -1,10 +1,5 @@
 RewriteEngine On
-
 Header set Access-Control-Allow-Origin *
-
-=======
-Header set Access-Control-Allow-Origin *
->>>>>>> 918058818851715844f39dba359ef419dd325934
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php/$1 [L]
