@@ -72,7 +72,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="row">
 			<div class="col-lg-7 bnr-txt-w3pvt">
 				<div class="bnr-w3pvt-txt mt-sm-5">
-					<h6>Welcome to my page</h6>
+					<!-- <h6 class="bg-light">Welcome to my page</h6> -->
 					<h2>Hello <span>I'm Pras</span></h2>
 					<h4>developer - engineer - freelancer</h4>
 					<p class="mt-4"> Interested in game development and have experience working as Augmented Reality (AR) developer, Backend and Desktop programmer. Recently work as an Embedded Software Engineer using Arduino, Raspberry Pi, and other IoT devices.</p>

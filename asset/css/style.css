@@ -226,14 +226,16 @@ a.scroll.bnr-btn i{
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: rgba(0, 0, 0, 0.5);
+	/*background: rgba(0, 0, 0, 0.5);*/
 	background-size: cover;
 	opacity: 0.9;
 	background: #1e3c72;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #2a5298, rgba(30, 60, 114, 0.59));  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #2a5298, rgba(30, 60, 114, 0.59)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-	/*background: -webkit-linear-gradient(to right, #f49542, rgba(244, 149, 66, 0.59));*/  /* Chrome 10-25, Safari 5.1-6 */
-	/*background: linear-gradient(to right, #f49542, rgba(244, 149, 66, 0.59));*/ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /*background: -webkit-linear-gradient(to right, #f49542, rgba(244, 149, 66, 0.59));*/  /* Chrome 10-25, Safari 5.1-6 */
+    /*background: linear-gradient(to right, #f49542, rgba(244, 149, 66, 0.59));*/ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /*background: -webkit-linear-gradient(to right, #ffffff, rgba(255, 255, 255, 0.59));*/
+    /*background: linear-gradient(to right, #ffffff, rgba(255, 255, 255, 0.59));*/
 
 }
 .bnr-w3pvt-txt h2 {
@@ -243,7 +245,7 @@ a.scroll.bnr-btn i{
 	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
 }
 .bnr-w3pvt-txt p {
-    color: #eee;
+    color: #fff;
 }
 
 .bnr-w3pvt-txt h6 {
@@ -259,7 +261,7 @@ a.scroll.bnr-btn i{
     content: '';
     width: 8%;
 	height: 1px;
-    background: #fff;
+    /*background: #fff;*/
     left: 0;
 	bottom: -70%
 }
@@ -267,7 +269,7 @@ a.scroll.bnr-btn i{
 }
 .bnr-w3pvt-txt h4 {
     text-transform: capitalize;
-    color: #eee;
+    color: #fff;
     letter-spacing: 1px;
     font-size: 26px;
 }
