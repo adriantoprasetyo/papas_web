@@ -41,7 +41,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<nav class="navbar">
 		<div class="container">
 			<h1 class="wthree-logo">
-				<a href="<?= base_url();?>" id="logoLink"><i class="fa fa-lightbulb-o"></i> <span>P</span>apasIde</a>
+				<a href="<?= base_url();?>" id="logoLink"><img src="<?= base_url();?>asset/images/pras-03.png" width="80px" height="80px"><!-- <i class="fa fa-lightbulb-o"></i> --> <span>P</span>apas<span>I</span>de</a>
 			</h1>
 
 			<!-- menu -->
@@ -184,8 +184,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="container py-lg-5">
 		<div class="row">
 			<div class="col-lg-8">
-				<h4>" I've worked with some X company for several years and that is the best company in the Market. Mauris elementum tortor a nisl
-				aliquet fringilla. Donec et risus augue. Proin sit amet maximus dui Vivamus lacinia nisi tempor ligula sagittis vehicula."</h4>
+				<h4>" I am a fast learner and eager to learn anything new, i do love so much about technology especially programming. I have been working as software engineer for 2 years with speciality in backend."</h4>
 				<h5>developer - engineer - freelancer</h5>
 			</div>
 		</div>
