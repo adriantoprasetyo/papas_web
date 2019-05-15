@@ -211,7 +211,7 @@ a.scroll.bnr-btn i{
 /* banner */
 
 .banner-w3pvt {
-	background: url(../images/foto_pras.jpg) no-repeat center;
+	background: url(../images/foto_pras_crop.jpg) no-repeat center;
 	background-size: cover;
 	position: relative;
 }
@@ -228,22 +228,30 @@ a.scroll.bnr-btn i{
 	left: 0;
 	/*background: rgba(0, 0, 0, 0.5);*/
 	background-size: cover;
-	opacity: 0.9;	
+	opacity: 0.9;
+	/*background: #1e3c72;*/  /* fallback for old browsers */
+    /*background: -webkit-linear-gradient(to right, #ffffff, rgba(255, 255, 255, 0.59));*/
+    /*background: linear-gradient(to right, #ffffff, rgba(255, 255, 255, 0.59));*/
+
+    /*background: -webkit-linear-gradient(to right, #2a5298, rgba(30, 60, 114, 0.59));  /* Chrome 10-25, Safari 5.1-6 */*/
+    /*background: linear-gradient(to right, #2a5298, rgba(30, 60, 114, 0.59)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */*/
+	/*background: -webkit-linear-gradient(to right, #f49542, rgba(244, 149, 66, 0.59));*/  /* Chrome 10-25, Safari 5.1-6 */
+	/*background: linear-gradient(to right, #f49542, rgba(244, 149, 66, 0.59));*/ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 .bnr-w3pvt-txt h2 {
     font-size: 60px;
     font-weight: 600;
-    color: #000000;
+    color: #fff;
 	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
 }
 .bnr-w3pvt-txt p {
-    color: #000000;
+    color: #fff;
 }
 
 .bnr-w3pvt-txt h6 {
     font-size: 17px;
-    color: #000000;
+    color: #fff;
     margin-bottom: 30px;
     position: relative;
     text-transform: capitalize;
@@ -254,7 +262,7 @@ a.scroll.bnr-btn i{
     content: '';
     width: 8%;
 	height: 1px;
-    /*background: #fffs;*/
+    /*background: #fff;*/
     left: 0;
 	bottom: -70%
 }
@@ -262,7 +270,7 @@ a.scroll.bnr-btn i{
 }
 .bnr-w3pvt-txt h4 {
     text-transform: capitalize;
-    color: #000000;
+    color: #fff;
     letter-spacing: 1px;
     font-size: 26px;
 }
