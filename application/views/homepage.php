@@ -200,7 +200,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="contact-form">
 			<div class="row">
 				<div class="col-lg-12">
-					<form name="contactform" id="contactform" method="post">
+					<form name="contactform" id="contactform" method="post" action="welcome/form_hire">
 						<div class="row">
 							<div class="form-group col-md-6 ">
 							  <label>Name</label>
@@ -300,10 +300,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             url         : 'http://papaside.com/welcome/form_hire', // the url where we want to POST
             data        : formData, // our data object
             dataType    : 'json', // what type of data do we expect back from the server
-            encode      : true,
-            success: function (response) {
-			   alert("Data berhasil di input");
-			}
+                        encode          : true
         })
             // using the done promise callback
             .done(function(data) {
