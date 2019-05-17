@@ -78,7 +78,7 @@ class Welcome extends CI_Controller {
 			$data['errors'] = 'success';
 		}
 		echo json_encode($data);
-		redirect("homepage");
+		$this->load->view('homepage');
 	}
 
 	public function xyzxyz()
