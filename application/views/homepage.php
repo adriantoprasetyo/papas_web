@@ -75,7 +75,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<!-- <h6 class="bg-light">Welcome to my page</h6> -->
 					<h2>Hello <span>I'm Pras</span></h2>
 					<h4>developer - engineer - freelancer</h4>
-					<p class="mt-4 text-justify card px-2 ubah-dikit"> Interested in game development and have experience working as Augmented Reality (AR) developer, Backend and Desktop programmer. Recently work as an Embedded Software Engineer using Arduino, Raspberry Pi, and other IoT devices.</p>
+					<p class="mt-4 text-justify card px-2 ubah-dikit"> Have experience working as Augmented Reality (AR) developer, Backend and Desktop programmer. Recently work as an Embedded Software Engineer using Arduino, Raspberry Pi, and other IoT devices.</p>
 					<ul class="social_section_1info mt-4">
 						<li class="mb-2"><a href="https://web.facebook.com/adriantoprasetyo"><span class="fa fa-facebook"></span></a></li>
 						<li class="mb-2"><a href="https://github.com/adriantoprasetyo"><span class="fa fa-github"></span></a></li>
@@ -183,8 +183,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <section class="quote py-5">
 	<div class="container py-lg-5">
 		<div class="row">
-			<div class="col-lg-8">
-				<h4>" I am a fast learner and eager to learn anything new, i do love so much about technology especially programming. I have been working as software engineer for 2 years with speciality in backend."</h4>
+			<div class="col-lg-8 text-justify">
+				<h4>" I am a fast learner and eager to learn anything new, i do love so much about technology especially programming. I have been working as software engineer for one year with speciality in backend."</h4>
 				<h5>developer - engineer - freelancer</h5>
 			</div>
 		</div>
