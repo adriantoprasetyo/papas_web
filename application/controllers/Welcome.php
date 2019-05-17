@@ -65,7 +65,7 @@ class Welcome extends CI_Controller {
 
 			// if there are no errors process our form, then return a message
 
-			$data = array(
+			$data_hire = array(
 				'name' => $this->input->post('name'),
 				'email' => $this->input->post('email'),
 				'phone' => $this->input->post('phone'),
@@ -73,7 +73,9 @@ class Welcome extends CI_Controller {
 				'message' => $this->input->post('message')
 			);
 
-			$this->hire_model->insert_entry($data);
+			$this->hire_model->insert_entry($data_hire);
+			$data['success'] = true;
+			$data['errors'] = 'success';
 		}
 		echo json_encode($data);
 	}
