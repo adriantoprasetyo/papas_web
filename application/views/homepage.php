@@ -69,7 +69,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- banner -->
 <div id="home" class="banner-w3pvt d-flex">
 	<div class="container">
-		<div class="row flex-row-reverse geser-dikit">
+		<div class="row">
 			<div class="col-lg-7 bnr-txt-w3pvt">
 				<div class="bnr-w3pvt-txt mt-sm-5">
 					<!-- <h6 class="bg-light">Welcome to my page</h6> -->
