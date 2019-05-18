@@ -24,7 +24,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </script>
 	
 	<!-- css files -->
-    <link href="<?= base_url(); ?>asset/css/bootstrap.css" rel='stylesheet' type='text/css' /><!-- bootstrap css -->
+    <link href="<?= base_url(); ?>asset/css/bootstrap.min.css" rel='stylesheet' type='text/css' /><!-- bootstrap css -->
     <link href="<?= base_url(); ?>asset/css/style.css" rel='stylesheet' type='text/css' /><!-- custom css -->
     <link href="<?= base_url(); ?>asset/css/font-awesome.min.css" rel="stylesheet"><!-- fontawesome css -->
 	<!-- //css files -->
