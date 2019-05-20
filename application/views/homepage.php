@@ -147,7 +147,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="col-lg-4 col-sm-6 mb-5">
 			   <div class="panel panel-default">
 				  <div class="panel-thumbnail">
-					<img src="<?= base_url(); ?>asset/images/web.svg" alt="" class="img-fluid" />
+					<img src="<?= base_url(); ?>asset/images/web.svg" alt="" class="img-fluid mx-auto d-block" />
 					<h3>01</h3>
 					<h4 class="mt-3">App Developer</h4>
 					<p class="mt-3">I will be ready to help you create fantastic apps in web, android or desktop.</p>
@@ -157,7 +157,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="col-lg-4 col-sm-6 mb-5">
 			   <div class="panel panel-default">
 				  <div class="panel-thumbnail">
-					<img src="<?= base_url(); ?>asset/images/lampu.svg" alt="" class="img-fluid" />
+					<img src="<?= base_url(); ?>asset/images/lampu.svg" alt="" class="img-fluid mx-auto d-block" />
 					<h3>02</h3>
 					<h4 class="mt-3">IoT Solution</h4>
 					<p class="mt-3">Are you need to build smart home ? or want to create prototype ? fortunately i can help you with that !</p>
@@ -167,7 +167,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="col-lg-4 col-sm-6 mb-5">
 			   <div class="panel panel-default">
 				  <div class="panel-thumbnail">
-					<img src="<?= base_url(); ?>asset/images/ar.svg" alt="" class="img-fluid" />
+					<img src="<?= base_url(); ?>asset/images/ar.svg" alt="" class="img-fluid mx-auto d-block" />
 					<h3>03</h3>
 					<h4 class="mt-3">AR Developer</h4>
 					<p class="mt-3">Nowadays marketing strategy have reaching next level, they using Augmented Reality for that ! .</p>
