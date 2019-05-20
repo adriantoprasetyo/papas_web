@@ -83,7 +83,9 @@ class Welcome extends CI_Controller {
 
 	public function xyzxyz()
 	{
-		$data = $this->hire_model->get_last_ten_entries();
+		$data['data'] = $this->hire_model->get_last_ten_entries();
+		// print_r($data);
+		// exit();
 		$this->load->view('data_table', $data);
 	}
 }

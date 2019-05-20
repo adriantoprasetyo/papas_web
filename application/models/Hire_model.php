@@ -9,7 +9,7 @@ class Hire_model extends CI_Model {
         public function get_last_ten_entries()
         {
                 $query = $this->db->get('hire_list', 10);
-                return $query->result_array();
+                return $query->result();
         }
 
         public function insert_entry($data)
