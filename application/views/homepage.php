@@ -236,12 +236,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <footer class="py-lg-5 py-4">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-2">
+			<div class="col-lg-3">
 				<h3 class="wthree-logo mt-3">
 					<a href="<?= base_url();?>" id="logoLink"><img src="<?= base_url();?>asset/images/pras-03.png" width="80px" height="80px"><!-- <i class="fa fa-lightbulb-o"></i> --> <span>P</span>apas<span>I</span>de</a>
 				</h3>
 			</div>
-			<div class="col-lg-7 my-lg-0 my-4">
+			<div class="col-lg-6 my-lg-0 my-4">
 				<p><span class="fa mr-2 fa-map-marker"></span>Jl. Pakansari Raya, Bogor, Jawa Barat 16915</p>
 				<p class="mt-2"><span class="fa mr-2 fa-envelope"></span><a href="mailto:adriantoprasetyo30@gmail.com">adriantoprasetyo30@gmail.com</a>, <span class="fa ml-3 mr-2 fa-phone"></span>62-822-5801-5981</p>
 			</div>
