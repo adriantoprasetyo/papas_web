@@ -238,7 +238,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="row">
 			<div class="col-lg-2">
 				<h3 class="wthree-logo mt-3">
-					<a href="index.html" id="logoLink1"><span class="fa fa-adjust"></span> <span>C</span>lient</a>
+					<a href="<?= base_url();?>" id="logoLink"><img src="<?= base_url();?>asset/images/pras-03.png" width="80px" height="80px"><!-- <i class="fa fa-lightbulb-o"></i> --> <span>P</span>apas<span>I</span>de</a>
 				</h3>
 			</div>
 			<div class="col-lg-7 my-lg-0 my-4">
